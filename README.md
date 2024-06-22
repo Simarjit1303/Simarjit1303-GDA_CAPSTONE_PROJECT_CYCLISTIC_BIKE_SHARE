@@ -33,7 +33,7 @@ This comparison along with other tasks will later be used by the marketing depar
 
 ## STAGE 2: Data Preparation 
 
-The data that we will be using is Cyclistic’s historical trip data from the last 12 months (April 2023 to May 2024). The data has been made available by Motivate International Inc. on this [link](https://divvy-tripdata.s3.amazonaws.com/index.html) under this [license](https://www.divvybikes.com/data-license-agreement).
+The data that we will be using is Cyclistic’s historical trip data from the last 12 months (June 2023 to May 2024). The data has been made available by Motivate International Inc. on this [link](https://divvy-tripdata.s3.amazonaws.com/index.html) under this [license](https://www.divvybikes.com/data-license-agreement).
 
 The dataset consists of 12 CSV files (each for a month) with 13 columns and more than 4 million rows.
 
