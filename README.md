@@ -6,7 +6,7 @@ _This document is created as part of the capstone project of the Google Data Ana
 You are a junior data analyst in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The marketing director believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
 ## About the Company
-In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at anytime.
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time.
 
 The project follows the six-step data analysis process: **Ask, Prepare, Process, Analyze, Share, and Act**.
 
@@ -51,20 +51,38 @@ A quick filtering and checking data for completeness shows that the “start sta
 
 This limitation could slightly affect our analysis for finding stations where most electric bikes are taken but we can use “end station names” to locate our customers and this can be used for further analysis and potential marketing campaigns. -->
 
-## **PHASE 3: Process**
+## PHASE 3: Process
 
-Before we start analyzing, it is necessary to make sure the data is clean, free of error and in the right format.
+Performed data processing using R programming.
+- Click [here]() to view the R script and the summary of complete data processing.
 
-### Tasks:
+## PHASE 4: Analyzing Data
+Performed data aggregation using R Programming.
+- Click [here](https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share/blob/main/02.%20Analysis/analysis_script.R) to view the R script and the summary of the complete analysis process.
 
- 1. Tools: R Programming is used for its ability to handle huge datasets efficiently. Microsoft Excel is used for further analysis and visualization. 
+Further analysis were carried out to perform calculations and identify trends and relationships using PivotTable and Charts on Microsoft Excel.
 
-```{r}
-	# Load packages in R
-	>library(readr)
-	>library(tidyverse)
-	>library(dplyr)
-	>library(lubridate)
-	>library(skimr)
-	>library(janitor)
-```
+ - Click [here](https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share/tree/main/02.%20Analysis) to view individual Excel files used for analysis
+
+## PHASE 5: Share
+Microsoft PowerPoint is used for data visualization and presenting key insights.
+- Click [here](https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share/tree/main/03.%20Presentation) to download the presentation.
+
+## PHASE 6: Act
+After analyzing, we reached to the following conclusion:
+- Casual riders take less number of rides but for longer durations.
+- Casual Riders are most active on weekends, and the months of June and July.
+- Casual riders mostly use bikes for recreational purposes.
+
+Here are my top 3 recommendations based on the above key findings:
+1. Design riding packages by keeping recreational activities, weekend contests, and summer events in mind and offer special discounts and coupons on such events to encourage casual riders to get an annual membership.
+
+2. Design seasonal packages, It allows flexibility and encourages casual riders to get membership for specific periods if they are not willing to pay for an annual subscription.
+
+3. Effective and efficient promotions by targeting casual riders at the busiest times and stations:
+	- Days: Weekends
+	- Months: February, June, and July
+	- Stations: Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millennium Park
+
+
+***Thanks for reading and Happy Analyzing!*** :smiley: :bar_chart:
