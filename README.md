@@ -54,7 +54,7 @@ This limitation could slightly affect our analysis for finding stations where mo
 ## PHASE 3: Process
 
 Performed data processing using R programming.
-- Click [here](Scripts /Process.R) to view the R script and the summary of complete data processing.
+- Click [here](https://github.com/Simarjit1303/Simarjit1303-GDA_CAPSTONE_PROJECT_CYCLISTIC_BIKE_SHARE/blob/0847afef7a2c7035ce27445d5a979fdee3eede56/Scripts%20/Process.R)) to view the R script and the summary of complete data processing.
 
 ## PHASE 4: Analyzing Data
 Performed data aggregation using R Programming.
