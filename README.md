@@ -54,7 +54,7 @@ This limitation could slightly affect our analysis for finding stations where mo
 ## PHASE 3: Process
 
 Performed data processing using R programming.
-- Click [here]() to view the R script and the summary of complete data processing.
+- Click [here](Scripts /Process.R) to view the R script and the summary of complete data processing.
 
 ## PHASE 4: Analyzing Data
 Performed data aggregation using R Programming.
