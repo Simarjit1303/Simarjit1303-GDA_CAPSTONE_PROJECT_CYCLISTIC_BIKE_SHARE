@@ -45,12 +45,6 @@ ROCCC approach is used to determine the credibility of the data
 -   **C**urrent – It is up-to-date as it includes data until the end of May 2021
 -   **C**ited - The data is cited and is available under the Data License Agreement.
 
-<!-- **Data Limitation**
-
-A quick filtering and checking data for completeness shows that the “start station name and ID” and “end station name and ID” for some rides are missing. Further observations suggest that the most missing data about “start station name” belongs to “electric bikes” as 201,975 out of 888,490 electric ride-shares have missing data and it accounts for 22% of total electric-bike ride shares.
-
-This limitation could slightly affect our analysis for finding stations where most electric bikes are taken but we can use “end station names” to locate our customers and this can be used for further analysis and potential marketing campaigns. -->
-
 ## PHASE 3: Process
 
 Performed data processing using R programming.
@@ -58,7 +52,7 @@ Performed data processing using R programming.
 
 ## PHASE 4: Analyzing Data
 Performed data aggregation using R Programming.
-- Click [here](https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share/blob/main/02.%20Analysis/analysis_script.R) to view the R script and the summary of the complete analysis process.
+- Click [here](https://github.com/Simarjit1303/Simarjit1303-GDA_CAPSTONE_PROJECT_CYCLISTIC_BIKE_SHARE/blob/40c999a6bc1c7ac79d271ead34e5095b86f37304/Scripts%20/Analyze.R) to view the R script and the summary of the complete analysis process.
 
 Further analysis were carried out to perform calculations and identify trends and relationships using PivotTable and Charts on Microsoft Excel.
 
