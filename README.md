@@ -23,9 +23,9 @@ Lily Moreno(Marketing Director) has assigned you the first question to answer:
 
 ### Summary of Business Task
 
-The goal of this case study is to identify how annual members and casual riders use Cyclistic bikes differently.
+This case study aims to identify how annual members and casual riders use Cyclistic bikes differently.
 
-This comparison along with other tasks will later be used by the marketing department for developing strategies aimed at converting casual riders into members
+The marketing department will later use this comparison along with other tasks for developing strategies aimed at converting casual riders into members
 
 ### Stakeholders:
 1. Primary stakeholders: The director of marketing and the Cyclistic executive team
@@ -54,9 +54,9 @@ Performed data processing using R programming.
 Performed data aggregation using R Programming.
 - Click [here](https://github.com/Simarjit1303/Simarjit1303-GDA_CAPSTONE_PROJECT_CYCLISTIC_BIKE_SHARE/blob/40c999a6bc1c7ac79d271ead34e5095b86f37304/Scripts%20/Analyze.R) to view the R script and the summary of the complete analysis process.
 
-Further analysis were carried out to perform calculations and identify trends and relationships using PivotTable and Charts on Microsoft Excel.
+Further analysis was performed to perform calculations and identify trends and relationships using PivotTable and Charts on Microsoft Excel.
 
- - Click [here](https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share/tree/main/02.%20Analysis) to view individual Excel files used for analysis
+ - Click [here](https://github.com/Simarjit1303/Simarjit1303-GDA_CAPSTONE_PROJECT_CYCLISTIC_BIKE_SHARE/tree/4b9fd238c51c224d92d9d65745d857eced4093cc/02.Analysis) to view individual Excel files used for analysis
 
 ## PHASE 5: Share
 Microsoft PowerPoint is used for data visualization and presenting key insights.
